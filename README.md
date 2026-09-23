@@ -9,7 +9,7 @@ Sistema web desenvolvido para o gerenciamento de uma loja virtual de autopeças.
 
 ## Sobre o Projeto
 
-O **Peças Prime** tem como objetivo centralizar o gerenciamento de **produtos, clientes, usuários, estoque, pedidos, vendas e notas fiscais**, substituindo processos manuais e facilitando a organização da loja.
+O **Peças Prime** tem como objetivo realizar o gerenciamento de **produtos, clientes, usuários, estoque, pedidos, vendas e notas fiscais**, substituindo processos manuais e facilitando a organização da loja.
 
 ## Funcionalidades
 
@@ -54,9 +54,9 @@ O sistema possui tabelas para:
 * O estoque não pode ficar negativo;
 * A nota fiscal é emitida após a venda.
 
-## Projeto Acadêmico
+## Projeto Escolar
 
-**Instituição:** Escola Técnica 3D Colégios
+**Colégio:** Escola Técnica 3D Colégios
 **Aluno:** Aquílles Soares De Andrade
 **Disciplinas:** Análise e Desenvolvimento de Projetos e Programação Web
 **Ano:** 2026
