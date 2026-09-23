@@ -1,8 +1,3 @@
-# pecas_prime-php-poo
-
-
-
-
 # Peças Prime
 
 Sistema web desenvolvido para o gerenciamento de uma loja virtual de autopeças.
